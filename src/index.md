@@ -2,7 +2,7 @@
 title: Welcome to the YAML Data Project
 redirect_from: /home/
 ---
-YAML is a human friendly language for the communication of data between people and computers.
+YAML is a human friendly language for the communication of data between people and computerzzz.
 
 The language is rich enough to represent almost any conceivable data structure or object inside a running computer program, as a readable plain text file.
 This type of language is often called a "serialization language" and YAML is definitely one of those.
